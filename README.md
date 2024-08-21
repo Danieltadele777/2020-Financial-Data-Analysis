@@ -116,4 +116,4 @@ For data analysis and cleaning I used SQL.
 No reference materials were used in this analysis
 
 ### [Presentation Video]()
-[Watch my presentation video for this analysis](https://drive.google.com) to see the detailed analysis and insights!
+[Watch my presentation video for this analysis](https://drive.google.com/file/d/149gPzWwHaLFPqMYe4cgAnY1ethSFuxdT/view?usp=drive_link) to see the detailed analysis and insights!
