@@ -41,6 +41,7 @@ The data is obtained from the educational provider task analysis.
 - SQL: For data cleaning and transformation
 - Panda: For data cleaning, inspection and analysis
 - Power BI: Visualization, DAX, measures
+- Python, PySpark
 
 ### [Data cleaning]()
 To clean the data I performed the following tasks:
