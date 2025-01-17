@@ -24,7 +24,6 @@ My work provided **critical insights** into regional sales trends, seasonal vari
  - [Power BI Visualization](#power-bi-visualization)
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
- - [References](#references)
  - [Presentation Video](#presentation-video)
 
 ### [Project Overview]()
@@ -112,9 +111,6 @@ For data analysis and cleaning I used SQL.
 - **Time Period Constraints**: The analysis covers a specific time period, which may not fully reflect long-term trends or variations. Seasonal patterns and business cycles outside this period were not included in the scope of this analysis.
 - **Assumptions in Analysis**: The findings are based on certain assumptions about the data and the business environment. Any changes in these assumptions or unaccounted variables could affect the validity of the conclusions.
 - **No Experimental Data**: The analysis was performed using historical data without experimental or control data. This limits the ability to establish causal relationships or test specific interventions.
-
-  ### [References]()
-No reference materials were used in this analysis
 
 ### [Presentation Video]()
 [Watch my presentation video for this analysis](https://drive.google.com/file/d/149gPzWwHaLFPqMYe4cgAnY1ethSFuxdT/view?usp=drive_link) to see the detailed analysis and insights!
